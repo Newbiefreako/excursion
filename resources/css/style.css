@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.main-header {
+    display: block;
+    margin-block-start: 0.67rem;
+    margin-block-end: 0.67rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font: 50px;
+    font-weight: normal;
+}
+
+.click-through {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.tag-above-picture {
+    color: grey;
+    font-size: 21px;
+}
